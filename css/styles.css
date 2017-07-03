@@ -6,3 +6,7 @@
 .li:hoover {
   text-decoration: underline;
 }
+.kubo {
+  display: none;
+  float:left;
+}
