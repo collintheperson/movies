@@ -3,10 +3,10 @@
   color: #0088cc;
 }
 
-.li:hoover {
+.li:hover {
   text-decoration: underline;
 }
-.kubo {
+/*.kubo {
   display: none;
   float:left;
-}
+}*/
